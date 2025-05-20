@@ -12,6 +12,7 @@
  * 5: Return time From (12)
  * 6: Return time To (20)
  * 
+ * @version 1.0
  * @author Adam Keegan
 */
 
