@@ -1,5 +1,6 @@
 # DART Dublin Train Widget
-
+![IMG_1266](https://github.com/user-attachments/assets/26b01076-9869-4dbd-98ba-179922d50f3d)
+![IMG_1265](https://github.com/user-attachments/assets/c175257e-d73a-40ac-ad10-67eff26ed05f)
 This repository contains an iOS Scriptable widget that displays real-time DART (Dublin Area Rapid Transit) train information. It fetches immediate train schedules from Irish Rail, enabling users to track northbound or southbound trains from their chosen stations and optionally configure return stations during specific time ranges.
 
 ---
